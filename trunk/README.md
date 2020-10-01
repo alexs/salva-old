@@ -1,4 +1,4 @@
-== Welcome to Rails
+<h1>Welcome to Rails</h1>
 
 Rails is a web-application and persistance framework that includes everything
 needed to create database-backed web-applications according to the
